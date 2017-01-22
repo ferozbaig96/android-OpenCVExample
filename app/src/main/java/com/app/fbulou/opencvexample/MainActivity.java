@@ -14,6 +14,12 @@ import org.opencv.android.OpenCVLoader;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+        Download OpenCV library.
+        Install it using the following :
+        http://stackoverflow.com/questions/27406303/opencv-in-android-studio
+    */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
